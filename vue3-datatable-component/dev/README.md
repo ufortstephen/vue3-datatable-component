@@ -100,7 +100,6 @@ export default {
 ```
 
 
-
 ## Configuration
 
 | Name          | Type          |  Default       | Description |

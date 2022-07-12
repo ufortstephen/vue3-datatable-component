@@ -108,5 +108,6 @@ export default {
 | ------------- |:-------------:| :-------------:|:-------------:|
 | fields        |   Array       |      [ ]        |      Specifies the table head         |
 | data      | Array     |  [ ]     |  right bar     |
-| left baz      | right baz     |  right baz     |  right baz     |
+|     searchFilter  | Boolean    |  true    |  Displays search bar for filtering table data    |
+|     sort  | Boolean    |  true    |  Sorts table data on click    |
 ```
